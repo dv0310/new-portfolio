@@ -1,0 +1,28 @@
+[
+   
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "A React-based gym website includes homepage, class schedule, membership info, about us, contact",
+    "skills": ["React", "HTML", "CSS","FIGMA"],
+    "demo": "https://6604d0628716cc1c526478b1--cerulean-klepon-276c2d.netlify.app/",
+    "source": "https://github.com/dv0310/Amazone_Clone_ReactJs/blob/master/README.md"
+  },
+  {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "A React-based gym website includes homepage, class schedule, membership info, about us, contact",
+      "skills": ["React", "HTML", "CSS","FIGMA"],
+      "demo": "https://gentle-flan-15a3e9.netlify.app/",
+      "source": "https://github.com/dv0310/React-Gym-Website-1/tree/master"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "A React based car rental website , Enjoy the freedom to travel at your own pace without any time constraints. ",
+      "skills": ["React", "HTML", "CSS","FIGMA"],
+      "demo": "https://66022a4774004e7ce2c7fdda--heroic-baklava-f4625e.netlify.app/",
+      "source": "https://github.com/dv0310/car-rental-website/tree/main"
+    }
+  ]
+  
